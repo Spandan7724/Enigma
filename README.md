@@ -35,6 +35,12 @@ Enigma is an offline password cracker written in Go. It supports multiple hash t
     ```sh
     go build -o enigma ./cmd
     ```
+   (For Windows):
+
+    ```sh
+    go build -o enigma.exe ./cmd
+
+    ```
 
 ## Usage
 
